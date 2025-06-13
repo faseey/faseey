@@ -7,7 +7,7 @@
 
 ## 🧾 About Me
 
-- 🌱 Currently learning: **Java, Spring Boot**, system design, and backend architecture  
+- 🌱 Currently learning: **Java**, system design, and backend architecture  
 - 💬 Ask me about: **Java**, **DSA**, **Flutter**, or building scalable solutions  
 - 📫 How to reach me: [fasiih@gmail.com](mailto:fasiih@gmail.com)  
 - ⚡ Fun fact: I love breaking down problems into clean, logical steps
@@ -18,7 +18,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
