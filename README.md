@@ -24,17 +24,21 @@
 
 ## 🌐 Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/fasih-khalil-2a6371283/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="left">
+  <a href="mailto:fasiih@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  <a href="https://leetcode.com/u/faseey/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/fasih-khalil-2a6371283/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:fasiih@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://leetcode.com/u/faseey/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/fasih-khalil" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 </p>
+
 
 ---
 
