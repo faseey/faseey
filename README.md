@@ -3,8 +3,6 @@
 💻 Second-year Computer Science undergraduate  
 📍 Based in Pakistan  
 🚀 Future-ready software engineer focused on problem-solving and backend systems  
-💼 Campus Ambassador & Marketing Team Member @ Soliton Technologies  
-
 ---
 
 ## 🧾 About Me
