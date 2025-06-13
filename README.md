@@ -32,7 +32,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/faseey/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" />
+    <img src="https://upload.vectorlogo.zone/logos/leetcode/images/87a6ef2b-56e7-42de-b43f-d9db8e40734e.svg" width="32" height="32" alt="LeetCode" />
   </a>
   <a href="https://github.com/fasih-khalil" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
