@@ -1,20 +1,22 @@
-# Hi there 👋 I'm Fasih Khalil
+# 👋 Hi, I'm Fasih Khalil
 
-🎓 Second-year Computer Science undergraduate  
+💻 Second-year Computer Science undergraduate  
 📍 Based in Pakistan  
-🔍 Passionate about backend development, problem-solving & building real-world projects
+🚀 Future-ready software engineer focused on problem-solving and backend systems  
+💼 Campus Ambassador & Marketing Team Member @ Soliton Technologies  
 
 ---
 
-### 🧠 Learning & Interests
-- Data structures, algorithms, and clean code
-- Full-stack web development (HTML, CSS, JS, SQL, Node.js)
-- Exploring backend engineering with **Java** (Spring Boot soon!)
-- Previously worked with **Flutter** & **Dart**
+## 🧾 About Me
+
+- 🌱 Currently learning: **Java, Spring Boot**, system design, and backend architecture  
+- 💬 Ask me about: **Java**, **DSA**, **Flutter**, or building scalable solutions  
+- 📫 How to reach me: [fasiih@gmail.com](mailto:fasiih@gmail.com)  
+- ⚡ Fun fact: I love breaking down problems into clean, logical steps
 
 ---
 
-### 🛠️ Technologies & Tools
+## 💻 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -31,21 +33,23 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-### 📫 Connect with me
+## 🌐 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/fasih-khalil-2a6371283/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/faseey/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="mailto:fasiih@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
