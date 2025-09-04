@@ -17,7 +17,7 @@
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,flutter,dart,cpp,cs,python,nodejs,html,css,js,tailwind,mysql,firebase,git,github,vscode,androidstudio,idea,eclipse&theme=dark)](https://github.com/fasih-khalil)
+[![My Skills](https://skillicons.dev/icons?i=java,flutter,dart,cpp,cs,python,nodejs,html,css,js,tailwind,mysql,firebase,git,github,vscode,androidstudio,idea,eclipse&theme=dark)](https://github.com/fasih-khalil)
 
 
 ---
