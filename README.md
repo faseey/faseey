@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fasih Khalil
 
-💻 Second-year Computer Science undergraduate  
+💻 Third-year Computer Science undergraduate  
 📍 Based in Pakistan  
 🚀 Future-ready software engineer focused on problem-solving and backend systems  
 
@@ -8,7 +8,7 @@
 
 ## 🧾 About Me
 
-- 🌱 Currently learning: Java, system design, and backend architecture  
+- 🌱 Currently learning: JavaScript, system design, and backend architecture  
 - 💬 Ask me about: Java, DSA, Flutter, or building scalable solutions  
 - 📫 How to reach me: [www.fasiih@gmail.com](mailto:www.fasiih@gmail.com)  
 - ⚡ Fun fact: I love breaking down problems into clean, logical steps
