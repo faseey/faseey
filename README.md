@@ -8,7 +8,7 @@
   About Me
 </h3>
 
-- Aspiring Backend Engineer with a focus on System Design and scalable backend architectures.  
+- Backend Engineer with a focus on System Design and scalable backend architectures.  
 - Strong foundation in Core Programming, Data Structures, Algorithms, and Database Systems.  
 - Currently exploring Agentic AI systems, distributed backends, and system-level design patterns.  
 
@@ -28,7 +28,7 @@
   Skills & Tech Stack
 </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,langchain,nodejs,express,js,postman,mysql,postgres,prisma,git,github,flask,mongodb,firebase&theme=dark)](https://github.com/fasih-khalil)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,nodejs,express,js,postman,mysql,postgres,prisma,git,github,flask,mongodb,firebase&theme=dark)](https://github.com/fasih-khalil)
 
 - Backend & Frameworks: Python, FastAPI, Flask, Node.js, Express  
 - Databases & ORM: MySQL, PostgreSQL, MongoDB, Prisma, Firebase  
